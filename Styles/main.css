@@ -131,6 +131,14 @@ body {
     background-position: center top;
 	background-size:cover;
 }
+.home3 {
+    width: 100%;
+    height: 70vh;
+    background-image: url(../Images/docuflags.jpg);
+    background-position: center top;
+	background-size:cover;
+}
+
 
 .navTrigger {
     display: none;
@@ -260,6 +268,22 @@ body {
 }
 
 .section-2{
+  height: 300px;
+  width: auto;
+  background-image: url(../Images/carrieres.jpg);
+  background-attachment: fixed;
+  background-size:cover;
+}
+
+.section-3{
+  height: 300px;
+  width: auto;
+  background-image: url(../Images/docugowns.jpg);
+  background-attachment: fixed;
+  background-size:cover;
+}
+
+.section-4{
   height: 300px;
   width: auto;
   background-image: url(../Images/carrieres.jpg);
