@@ -119,7 +119,7 @@ body {
 .home {
     width: 100%;
     height: 70vh;
-    background-image: url(Images/download.jpeg);
+    background-image: url(../Images/download.jpeg);
     background-position: center top;
 	background-size:cover;
 }
@@ -127,7 +127,7 @@ body {
 .home2 {
     width: 100%;
     height: 70vh;
-    background-image: url(Images/airport1.jpeg);
+    background-image: url(../Images/airport1.jpeg);
     background-position: center top;
 	background-size:cover;
 }
@@ -254,7 +254,7 @@ body {
 .section-1{
   height: 300px;
   width: auto;
-  background-image: url(Images/universite.jpg);
+  background-image: url(../Images/universite.jpg);
   background-attachment: fixed;
   background-size:cover;
 }
@@ -262,7 +262,7 @@ body {
 .section-2{
   height: 300px;
   width: auto;
-  background-image: url(Images/carrieres.jpg);
+  background-image: url(../Images/carrieres.jpg);
   background-attachment: fixed;
   background-size:cover;
 }
