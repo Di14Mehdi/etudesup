@@ -126,9 +126,3 @@ font-size: 20px;
 text-align:center;
 font-size:4vw;
 }
-h2:after
-{
-    content:' ';
-    display:block;
-    border:2px solid black;
-}
